@@ -1,5 +1,6 @@
 This folder is for backtesting a simple intraday trading strategy.
 It's for experimentaion and practice, not intended for actual trading analysis.
+While the engine itself is not perfectly reusable, the download data, organize and calculate scripts are all easily reusable for other trading strategies.
 Structure:
 download_data.py
 Downloads the data from an API, from stockdata.org. 
